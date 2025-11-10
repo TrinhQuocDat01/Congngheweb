@@ -1,2 +1,2 @@
 # Congngheweb
-Repository môn Công Ngh
+Repository môn Công Nghệ web
